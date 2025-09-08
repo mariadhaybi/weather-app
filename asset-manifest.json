@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mariadhaybi.github.io/weather-app/static/css/main.6c768156.css",
+    "main.js": "/mariadhaybi.github.io/weather-app/static/js/main.206205c1.js",
+    "static/js/453.81177c10.chunk.js": "/mariadhaybi.github.io/weather-app/static/js/453.81177c10.chunk.js",
+    "static/media/cloud.png": "/mariadhaybi.github.io/weather-app/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/mariadhaybi.github.io/weather-app/index.html",
+    "main.6c768156.css.map": "/mariadhaybi.github.io/weather-app/static/css/main.6c768156.css.map",
+    "main.206205c1.js.map": "/mariadhaybi.github.io/weather-app/static/js/main.206205c1.js.map",
+    "453.81177c10.chunk.js.map": "/mariadhaybi.github.io/weather-app/static/js/453.81177c10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c768156.css",
+    "static/js/main.206205c1.js"
+  ]
+}
